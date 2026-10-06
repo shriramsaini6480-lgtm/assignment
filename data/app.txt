@@ -1,0 +1,7 @@
+Node.js large file streaming example
+
+This is sample text for testing fs.createReadStream().
+The stream reads the file in chunks of about 64 KB.
+Each chunk can be processed as it arrives, without loading the whole file into memory.
+
+Add more lines here to test how the program reads a larger file.
